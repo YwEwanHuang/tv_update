@@ -9,10 +9,10 @@ from bs4 import BeautifulSoup as bs4
 base_path = 'D:/视频/电视剧/'
 
 following = ['flash',
-			 'xman',
-			 'scor',
-			 'inhuman'
-			 ]
+	     'xman',
+	     'scor',
+	     'inhuman'
+	    ]
 
 episode_url = {
 	'flash'   : 'http://www.hao6v.com/mj/2014-10-08/24087.html',
